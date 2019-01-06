@@ -16,11 +16,11 @@
 
 # テスト結果
 
-[![Build Status](https://travis-ci.org/t-kougei-game-comp-2018/09_tree.svg?branch=master)](https://travis-ci.org/t-kougei-game-comp-2018/09_tree)
+[![Build Status](https://travis-ci.org/Narita1910/09_tree.svg?branch=master)](https://travis-ci.org/Narita1910/09_tree)
 
 # 今回の問題
 
-2分木の勉強です。
+2分木の勉強です。 
 
 入力される数字を木構造に格納してください。
 
